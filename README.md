@@ -14,14 +14,6 @@ This is the first project of the common core at 42 São Paulo. The project wants
    - [Bonus](#bonus)
    - [Remove](#remove)
    - [Declare](#declare)
-2. [Libft Documentation](#libft-documentation)
-   - [Name](#name)
-   - [Synopsis](#synopsis)
-   - [Description](#description)
-       - [Types Definitions](#type-definitions)
-       - [Declarations](#declarations)
-   - [Application Usage](#application-usage)
-   - [Future Directions](#future-directions)
 
 ## How to use it?
 
